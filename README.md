@@ -21,6 +21,5 @@ Clone this repository or download the tic_tac_toe.py file.
 Open a terminal or command prompt and navigate to the directory containing the tic_tac_toe.py file.
 Run the game by executing the following command:
 
-python tic_tac_toe.py
-
+**python tic_tac_toe.py**
 Follow the on-screen prompts to play the game
